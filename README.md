@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Nicolás</h1>
-<h3 align="center">Un apasionado de DevOps Argentina</h3>
+<h3 align="center">Un apasionado del mundo Cloud Argentina</h3>
 
 <p align="left"> <img src="https: //komarev.com/ghpvc/?username=nicolashernanaws&label=Profile%20views&color=0e75b6&style=flat" alt="nicolashernanaws" /> </p>
 
@@ -10,4 +10,3 @@
 
 <
 
-< p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolashernanaws&show_icons=true&locale=en&layout=compact" alt="nicolashernanaws" />< /p>
