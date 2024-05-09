@@ -1,6 +1,18 @@
 <h1 align="center">Hola 👋, soy Nicolás</h1>
 <h3 align="center">Un apasionado del mundo Cloud Argentina</h3>
 
+🔭 Actualmente estoy trabajando freelance 
+
+👯 Busco colaborar en Arquitectura de Software, DevOps, Sistemas Escalables, Startups
+
+👨‍💻 Todos mis proyectos están disponibles en github.com/Nicolashernanaws
+
+
+
+💬 Pregúntame sobre AWS, Kotlin, Terraform, Clojure, Productividad
+
+📄 Conoce mis experiencias LinkedIn
+
 <p align="left"> <img src="https: //komarev.com/ghpvc/?username=nicolashernanaws&label=Profile%20views&color=0e75b6&style=flat" alt="nicolashernanaws" /> </p>
 
 <h3 align="left">Conéctate conmigo:</h3>
