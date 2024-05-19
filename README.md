@@ -9,7 +9,7 @@
 
 
 
-💬 Pregúntame sobre AWS, Kotlin, Terraform, Clojure, Productividad
+💬 Pregúntame sobre AWS, Docker, Terraform, Cloud, Productividad
 
 📄 Conoce mis experiencias LinkedIn
 
