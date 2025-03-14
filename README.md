@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Nicolás</h1>
 <h3 align="center">Un apasionado del mundo Cloud Argentina</h3>
 
-🔭 Actualmente estoy trabajando freelance 
+SOY SOLUTIONS ARQUITECT AWS 
 
-👯 Busco colaborar en Arquitectura de Software, DevOps, Sistemas Escalables, Startups
+
 
 👨‍💻 Todos mis proyectos están disponibles en github.com/Nicolashernanaws
 
